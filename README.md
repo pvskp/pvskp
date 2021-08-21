@@ -4,7 +4,6 @@
   <a href="https://github.com/pvskp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvskp&layout=compact&theme=gruvbox"/>
-  </a>
 </div>
 
 <div>
