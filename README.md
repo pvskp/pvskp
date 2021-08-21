@@ -1,6 +1,20 @@
 ## Hi there, I'm pvskp! 👋
 
 
+### About me
+
+Just a CS student aiming to improve his Fullstack Developer skills 💻;
+````c
+void passionateAbout()
+{
+  webDevelopment();
+  automation();
+  robotics();
+}
+````
+
+##
+
 <div>
   <a href="https://github.com/pvskp">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
@@ -48,8 +62,6 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 </div>
-  
-
 
 ##
 
@@ -64,3 +76,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
