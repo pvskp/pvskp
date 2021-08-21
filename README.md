@@ -1,5 +1,6 @@
 ## Hi there, I'm pvskp! 👋
 
+
 <div>
   <a href="https://github.com/pvskp">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
@@ -13,10 +14,42 @@
    <a href="https://github.com/pvskp/Relogio-Pomodoro">
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=Relogio-Pomodoro&theme=gruvbox"/>
    </a>
-   <a href="">
+   <a href="https://github.com/pvskp/jacare_do_SUS">
     <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=jacare_do_SUS&theme=gruvbox">
    </a>
 </div>
+
+##
+
+<img src="https://badgen.net/badge/icon/currently-using/green?icon=github&label&scale=1.5"/>
+<div>
+  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
+</div>
+
+##
+
+<img src="https://badgen.net/badge/icon/learning/cyan?icon=github&label&scale=1.5"/>
+<div>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
+</div>
+
+##
+
+<img src="https://badgen.net/badge/icon/tools/red?icon=github&label&scale=1.5"/>
+<div>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+</div>
+  
+
 
 ##
 
