@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/pvskp">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvskp&layout=compact&langs_count=10t&theme=gruvbox"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvskp&layout=compact&theme=gruvbox"/>
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 ##
 
 <div>
-  <a href="www.linkedin.com/in/paulo-vinícius-pinto-743735200" target="_blank" >
+  <a href="https://linkedin.com/in/paulo-vinícius-pinto-743735200" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
