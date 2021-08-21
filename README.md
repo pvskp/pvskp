@@ -2,9 +2,12 @@
 
 <div>
   <a href="https://github.com/pvskp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvskp&layout=compact&theme=gruvbox"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvskp&layout=compact&langs_count=7t&theme=gruvbox"/>
+  </a>
 </div>
+
+##
 
 <div>
    <a href="https://github.com/pvskp/Relogio-Pomodoro">
