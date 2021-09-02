@@ -25,6 +25,19 @@ void passionateAbout()
 
 ##
 
+
+<div>
+   <a href="https://github.com/pvskp/liza-virtual-assistant">
+     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=liza-virtual-assistant&theme=gruvbox">
+   </a>
+   <a href="https://github.com/pvskp/Base-de-conhecimento">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=Base-de-conhecimento&theme=gruvbox">
+   </a>
+</div>
+
+
+##
+
 <div>
    <a href="https://github.com/pvskp/Relogio-Pomodoro">
     <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=Relogio-Pomodoro&theme=gruvbox"/>
@@ -34,13 +47,6 @@ void passionateAbout()
    </a>
 </div>
 
-##
-
-<div>
-   <a href="https://github.com/pvskp/Base-de-conhecimento">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=Base-de-conhecimento&theme=gruvbox">
-   </a>
-</div>
 
 ##
 
