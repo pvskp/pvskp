@@ -3,7 +3,7 @@
 
 ### About me
 
-Just a CS student aiming to improve his Fullstack Developer skills 💻;
+Just a CS student aiming to improve his DevOps skills 💻;
 ````c
 void passionateAbout()
 {
