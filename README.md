@@ -9,7 +9,7 @@ void passionateAbout()
 {
   webDevelopment();
   automation();
-  robotics();
+  operations();
   openSource();
 }
 ````
