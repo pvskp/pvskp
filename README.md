@@ -7,7 +7,7 @@ Just a CS student aiming to improve his DevOps skills 💻;
 ````c
 void passionateAbout()
 {
-  webDevelopment();
+  development();
   automation();
   operations();
   openSource();
