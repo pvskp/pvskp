@@ -1,97 +1,23 @@
-## Hi there, I'm pvskp! 👋
+# Hi there, I'm pvskp! 🫡
+![](https://media.tenor.com/j78BdvZI9dwAAAAC/pokemon-anime.gif)
 
+## $ whoami
+- 🖥️A CS student focused in SRE, DevOps and infrastructure in general
+- 🐧Linux, Vim and a CLI adventist
+- 🎮Pokémon Trainer 💪, Umbreon is my fav 🌗
+- ☄️ I like to mess with IoT, homemade automations and metrics stuff
+- 🍚Tottaly into Linux ricing
+- ⭐Have I already said that Vim is the best?
 
-### About me
+## $ cat main_skills.txt
+- 🖧Working with Linux servers by the last 2 years (databases, routers, samba servers and security hardening)
+- ⎈Navigating through the sea of Kubernetes Administration by the last ~1,5 years
+- 🔎Actively working with observability management: Grafana, Prometheus, Loki, Zabbix, and Alertmanager
+- 🖊️Solid xp with Shell scripting, Python and Golang
 
-Just a CS student aiming to improve his DevOps skills 💻;
-````c
-void passionateAbout()
-{
-  development();
-  automation();
-  operations();
-  openSource();
-}
-````
+## $ dig future.interests
+- 🔧Get better in Kubernetes CRD and Operators developing 
+- ⛏️Explore AIOps, focusing into observability
 
-##
-
-<div>
-  <a href="https://github.com/pvskp">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pvskp&count_private=true&show_icons=true&theme=gruvbox"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvskp&layout=compact&theme=gruvbox"/>
-  </a>
-</div>
-
-##
-
-
-<div>
-   <a href="https://github.com/pvskp/liza-virtual-assistant">
-     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=liza-virtual-assistant&theme=gruvbox">
-   </a>
-   <a href="https://github.com/pvskp/Base-de-conhecimento">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=Base-de-conhecimento&theme=gruvbox">
-   </a>
-</div>
-
-
-##
-
-<div>
-   <a href="https://github.com/pvskp/Relogio-Pomodoro">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=Relogio-Pomodoro&theme=gruvbox"/>
-   </a>
-   <a href="https://github.com/pvskp/jacare_do_SUS">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=pvskp&repo=jacare_do_SUS&theme=gruvbox">
-   </a>
-</div>
-
-
-##
-
-<img src="https://badgen.net/badge/icon/currently-using/green?icon=github&label&scale=1.5"/>
-<div>
-  <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-</div>
-
-##
-
-<img src="https://badgen.net/badge/icon/learning/cyan?icon=github&label&scale=1.5"/>
-<div>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>  
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
-</div>
-
-##
-
-<img src="https://badgen.net/badge/icon/tools/red?icon=github&label&scale=1.5"/>
-<div>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
-</div>
-
-##
-
-### contact me! :)
-
-<div>
-  <a href="https://linkedin.com/in/paulo-vinícius-pinto-743735200">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:pvincius14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
+## $ curl http://contact.me
+- 📬Check my Linkedin: www.linkedin.com/in/pvskp
