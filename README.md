@@ -6,7 +6,7 @@
 - 🐧 Linux, Vim and a CLI adventist
 - 🎮 Pokémon Trainer 💪, Umbreon is my fav 🌗
 - ☄️  I like to mess with IoT, homemade automations and metrics stuff
-- 🍚 Tottaly into Linux ricing
+- 🍚 Totally into Linux ricing
 - ⭐ Have I already said that Vim is the best?
 
 ## `$ cat main_skills.txt`
