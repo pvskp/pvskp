@@ -2,16 +2,16 @@
 ![](https://media.tenor.com/j78BdvZI9dwAAAAC/pokemon-anime.gif)
 
 ## `$ whoami`
-- 🖥️ A CS student focused in SRE, DevOps and infrastructure in general
+- 🖥️ A Site Reliability/DevOps Engineer focused on observability and Linux servers management.
 - 🐧 Linux, Vim and a CLI adventist
 - 🎮 Pokémon Trainer 💪, Umbreon is my fav 🌗
-- ☄️  I like to mess with IoT, homemade automations and metrics stuff
-- 🍚 Totally into Linux ricing
+- ☄️ I like to have fun with IoT, homemade automations and metrics stuff
+- 🍚 Into Linux ricing
 - ⭐ Have I already said that Vim is the best?
 
 ## `$ cat main_skills.txt`
-- 🖧 Working with Linux servers by the last 2 years (databases, routers, samba servers and security hardening)
-- ⎈ Navigating through the sea of Kubernetes Administration by the last ~1,5 years
+- 🖧 Working with Linux servers by the last 4 years (databases, routers, samba servers and security hardening)
+- ⎈ Navigating through the sea of Kubernetes Administration by the last 3 years
 - 🔎 Actively working with observability management: Grafana, Prometheus, Loki, Zabbix, and Alertmanager
 - 🖊️ Solid xp with Shell scripting, Python and Golang
 
