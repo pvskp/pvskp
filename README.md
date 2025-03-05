@@ -3,7 +3,7 @@
 
 ## `$ whoami`
 - 🖥️ A Site Reliability/DevOps Engineer focused on observability and Linux servers management.
-- 🐧 Linux, Vim and a CLI adventist
+- 🐧 Linux, Neovim and a CLI adventist
 - 🎮 Pokémon Trainer 💪, Umbreon is my fav 🌗
 - ☄️ I like to have fun with IoT, homemade automations and metrics stuff
 - 🍚 Into Linux ricing
