@@ -20,4 +20,5 @@
 - ⛏️ Explore AIOps, focusing into observability
 
 ## `$ curl http://contact.me`
-- 📬 Check my Linkedin: www.linkedin.com/in/pvskp
+- 👜 Check my Linkedin: www.linkedin.com/in/pvskp
+- 📬 Send me an e-mail: pvskp.dev@gmail.com
